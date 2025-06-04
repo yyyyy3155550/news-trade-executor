@@ -75,6 +75,11 @@ MT5のEAとして動作しますが、自動売買機能はありません。あ
 
 ## DEMO動画
 
+-アメリカ・ADP雇用者数
+
+https://github.com/user-attachments/assets/1077be3d-c2a1-4fe9-aa2d-d6d00a974dc4
+
+
 -米国 GDP発表 (ボラティリティ低め)
 
 https://github.com/user-attachments/assets/40872a3d-0a86-4bf6-a2be-f13346cc2a31  
